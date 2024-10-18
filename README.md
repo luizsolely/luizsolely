@@ -6,7 +6,7 @@
 
 <div align="center">
   
-Eu sou desenvolvedor Back-end e atualmente estudo Java
+Desenvolvedor Back-end e atualmente estudando a linguagem Java
 
 Também estou estudando Angular e Springboot
 
