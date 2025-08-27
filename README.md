@@ -7,4 +7,4 @@
 <a href="https://www.linkedin.com/in/luiz-felipe4120/" target="_blank">LinkedIn</a></p>
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,spring,typescript,react,aws,redis,postgresql,mysql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,react,aws,redis,postgresql,mysql,docker)](https://skillicons.dev)
